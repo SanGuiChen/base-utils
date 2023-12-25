@@ -1,5 +1,5 @@
 {
-  "name": "base-utils",
+  "name": "@sanguichen/base-utils",
   "version": "1.0.0",
   "description": "example for npm pkg",
   "main": "index.js",
